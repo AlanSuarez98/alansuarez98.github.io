@@ -597,7 +597,7 @@ background-color: transparent; /* color de fondo al desplazarse */
     opacity: 0;
     position: fixed;
     top: 0px;
-    z-index: -99;
+    z-index: -999;
     transition: 0.2s ease all;
 }
 .overlay.active{
